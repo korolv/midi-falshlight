@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/front/BMW_FRONT.png</file>
+        <file>images/front/L_ANGEL.png</file>
+        <file>images/front/L_FOG.png</file>
+        <file>images/front/L_H_BEAM.png</file>
+        <file>images/front/L_L_BEAM.png</file>
+        <file>images/front/L_TURN.png</file>
+        <file>images/front/R_ANGEL.png</file>
+        <file>images/front/R_FOG.png</file>
+        <file>images/front/R_H_BEAM.png</file>
+        <file>images/front/R_L_BEAM.png</file>
+        <file>images/front/R_TURN.png</file>
+        <file>images/back/BMW_BACK.png</file>
+        <file>images/back/C_STOP.png</file>
+        <file>images/back/L_FOG.png</file>
+        <file>images/back/L_PARK_IN.png</file>
+        <file>images/back/L_PARK_OUT.png</file>
+        <file>images/back/L_PARK.png</file>
+        <file>images/back/L_REVERCE.png</file>
+        <file>images/back/L_STOP.png</file>
+        <file>images/back/L_TURN.png</file>
+        <file>images/back/R_FOG.png</file>
+        <file>images/back/R_PARK_IN.png</file>
+        <file>images/back/R_PARK_OUT.png</file>
+        <file>images/back/R_PARK.png</file>
+        <file>images/back/R_REVERCE.png</file>
+        <file>images/back/R_STOP.png</file>
+        <file>images/back/R_TURN.png</file>
+        <file>images/logo.png</file>
+        <file>images/logo_128x128.png</file>
+        <file>images/logo_64x64.png</file>
+        <file>images/logo_32x32.png</file>
+    </qresource>
+</RCC>
