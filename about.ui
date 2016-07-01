@@ -9,8 +9,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>418</width>
-    <height>187</height>
+    <width>424</width>
+    <height>201</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -54,7 +54,7 @@
      <item>
       <widget class="QLabel" name="labelLogo">
        <property name="text">
-        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;MIDI Flashlight&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Programm to testing MIDI track for midi4lcm&lt;/p&gt;&lt;p&gt;© 2016 Vladimir Korol &amp;lt;vovabox@mail.ru&amp;gt;&lt;/p&gt;&lt;p&gt;Released under the GPLv3&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;MIDI Flashlight&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Programm to testing MIDI track for midi4lcm&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://github.com/korolv/midi-flashlight&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://github.com/korolv/midi-flashlight&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;© 2016 Vladimir Korol &amp;lt;vovabox@mail.ru&amp;gt;&lt;/p&gt;&lt;p&gt;Released under the GPLv3&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
        </property>
       </widget>
      </item>
