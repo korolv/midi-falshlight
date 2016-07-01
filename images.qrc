@@ -31,5 +31,7 @@
         <file>images/logo_128x128.png</file>
         <file>images/logo_64x64.png</file>
         <file>images/logo_32x32.png</file>
+        <file>images/back/L_REG_PLATE.png</file>
+        <file>images/back/R_REG_PLATE.png</file>
     </qresource>
 </RCC>

@@ -243,8 +243,14 @@ int MainWindow::noteToLightBack(int note)
     case 39:
         light = lightsBack::RIGHT_TURN;
         break;
+    case 40:
+        light = lightsBack::RIGHT_REG_PLATE;
+        break;
     case 41:
         light = lightsBack::CENTER_STOP;
+        break;
+    case 42:
+        light = lightsBack::LEFT_REG_PLATE;
         break;
     case 43:
         light = lightsBack::LEFT_TURN;

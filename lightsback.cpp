@@ -39,6 +39,8 @@ lightsBack::lightsBack(QWidget *parent) :
     lights[LEFT_STOP] = new QPixmap(":/images/back/L_STOP.png"); isSwitchOn[LEFT_STOP] = false;
     lights[RIGHT_STOP] = new QPixmap(":/images/back/R_STOP.png"); isSwitchOn[RIGHT_STOP] = false;
     lights[CENTER_STOP] = new QPixmap(":/images/back/C_STOP.png"); isSwitchOn[CENTER_STOP] = false;
+    lights[LEFT_REG_PLATE] = new QPixmap(":/images/back/L_REG_PLATE.png"); isSwitchOn[LEFT_REG_PLATE] = false;
+    lights[RIGHT_REG_PLATE] = new QPixmap(":/images/back/R_REG_PLATE.png"); isSwitchOn[RIGHT_REG_PLATE] = false;
     update();
 }
 

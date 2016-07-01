@@ -48,6 +48,8 @@ public:
         LEFT_STOP,
         RIGHT_STOP,
         CENTER_STOP,
+        LEFT_REG_PLATE,
+        RIGHT_REG_PLATE,
         LIGHT_SIZE
     };
 
